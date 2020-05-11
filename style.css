@@ -1,0 +1,47 @@
+.container{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#rangePicker{
+    background-color: white;
+    padding: 10px;
+    width: 290px;
+    border:0;
+    outline:0;
+    position: absolute;
+    top:-20px;
+    left: 10%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+input{
+    margin-top: 5px;
+}
+
+#btn-text{
+    float: right;
+}
+
+
+  #second_date{
+      margin-left: 10px;
+  }
+  #date_one{
+    border: 1px solid black;
+    padding: 5px;
+  }
+  #date_two{
+      margin-left: 20px;
+      border: 1px solid black;
+      padding: 5px;
+  }
+
+  .dateborder{
+      padding: 20px;
+      border: 1px solid black;
+      height: 100px;
+  }
